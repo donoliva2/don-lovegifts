@@ -1,5 +1,7 @@
 # don-lovegifts
 
+Preview Video: https://www.youtube.com/watch?v=eiYa9joO8Oo
+
 1.ox_inventory\data\items.lua
 
     ['roseflower'] = {
